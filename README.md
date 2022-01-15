@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @lorenzlorg
-- 👀 I’m interested in Data Science, Computer Science
+- 👀 I’m interested in Data Science, Data Engineering, Computer Science
 - 🌱 I’m currently studying at University of Milano-Bicocca, MSc Data Science
-- 👨‍💻 I’m currently learning to use Hadoop, Docker ... 
