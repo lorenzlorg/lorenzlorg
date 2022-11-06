@@ -12,4 +12,5 @@ I'm Lorenzo Lorgna, a `Data Science student` at `Università degli Studi di Mila
   
 :boy: **About me:**
 - 👀 I’m interested in Data Science, Data Engineering, Computer Science
-- 👨‍💻 I love technology
+- 👨‍💻 Technology enthusiast
+- ⚽️ I love sports
