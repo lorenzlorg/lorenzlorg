@@ -7,7 +7,7 @@ I'm Lorenzo Lorgna, a `Data Science student` at `Università degli Studi di Mila
  - Bachelor of Computer Science at `Università degli Studi di Milano-Bicocca`
 
 :loudspeaker: **Contacts:**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/manuelsalamino/](https://www.linkedin.com/in/lorenzo-lorgna-060b35109/))
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-lorgna-060b35109/)
 - `lorenzlorg@gmail.com`
   
 :boy: **About me:**
