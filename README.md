@@ -1,4 +1,4 @@
-### Hi there, I’m @lorenzlorg 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=4000&pause=100&color=000000&vCenter=true&width=435&lines=Hello%2C+I'm+Lorenzlorg)](https://git.io/typing-svg)
 
 I'm Lorenzo Lorgna, a `Data Science student` at `Università degli Studi di Milano-Bicocca`. I am currently working on my Master Thesis about computer vision techniques applied to urban planning at Systematica (Milan, IT).
 
