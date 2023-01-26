@@ -6,6 +6,9 @@ I'm Lorenzo Lorgna, a `Data Science student` at `Università degli Studi di Mila
  - Master of Data Science at `Università degli Studi di Milano-Bicocca`
  - Bachelor of Computer Science at `Università degli Studi di Milano-Bicocca`
 
+🛠️ **Technologies & Tools:**  
+- Python, SQL, Git, Tableau, KNIME, R, LaTeX, 
+
 :loudspeaker: **Contacts:**
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-lorgna/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lorenzlorg@gmail.com)
