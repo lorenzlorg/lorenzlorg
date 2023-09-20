@@ -1,15 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=4000&pause=100&color=000000&vCenter=true&width=435&lines=Hello%2C+I'm+Lorenzlorg)](https://git.io/typing-svg)
 
-I'm Lorenzo Lorgna.
+I'm Lorenzo Lorgna. I'm a `Junior Data Engineer` @ Quantyca.
 
-I am fascinated by the opportunity of extracting `value` from the `overwhelming amount of data` that surrounds us
+I am fascinated by the opportunity of extracting `value` from the `overwhelming amount of data` that surrounds us.
 
-:mortar_board: **Education:**
- - Master of Data Science at `Università degli Studi di Milano-Bicocca`
- - Bachelor of Computer Science at `Università degli Studi di Milano-Bicocca`
+<!-- :mortar_board: **Education:** -->
+<!-- - Master of Data Science at `Università degli Studi di Milano-Bicocca` -->
+<!-- - Bachelor of Computer Science at `Università degli Studi di Milano-Bicocca` -->
 
 🛠️ **Technologies & Tools:**  
-- Python, SQL, Git, Tableau, KNIME, R, LaTeX
+- Python, SQL, Git, AWS, Tableau, KNIME, R, LaTeX
 
 :loudspeaker: **Contacts:**
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-lorgna/)
