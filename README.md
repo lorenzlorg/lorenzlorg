@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=4000&pause=100&color=000000&vCenter=true&width=435&lines=Hello%2C+I'm+Lorenzlorg)](https://git.io/typing-svg)
 
-I'm Lorenzo Lorgna. I'm a `Junior Data Engineer` @ Quantyca.
+I'm Lorenzo Lorgna. I'm a `Data Engineer` @ Quantyca.
 
 I am fascinated by the opportunity of extracting `value` from the `overwhelming amount of data` that surrounds us.
 
